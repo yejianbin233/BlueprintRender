@@ -1,9 +1,10 @@
 ﻿.vs/
-Binaries/
-Intermediate/
-DerivedDataCache/
-Saved/
-Content/StartContent/
+/Binaries
+/Intermediate
+/DerivedDataCache
+/Saved
+/Content/StartContent/
+/Plugins
 *.sln
 *.xcodeproj
 .idea/
